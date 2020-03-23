@@ -1,0 +1,3 @@
+ctl00$UserName
+ctl00$Password
+https://sell.aflac.com/login.aspx
